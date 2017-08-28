@@ -1,6 +1,11 @@
 
 # Tensorflow for Lego object detection
 
+## Requirements
+- Tensorflow 1.2.1
+- ffmpeg 3.3.3
+(Tested on macOS 10.12.6)
+
 ## Prepare Training images
 
 Create video of a specific brick, e.g. brick2x4.mov
